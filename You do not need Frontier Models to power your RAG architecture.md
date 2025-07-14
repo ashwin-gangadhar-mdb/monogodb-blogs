@@ -1,6 +1,4 @@
-**Blog Title:** You do not need Frontier Models to power your RAG architecture  
-**Authors:** [Ashwin Gangadhar](mailto:ashwin.gangadhar@mongodb.com)  
-**Reviewers: [ayaan@fireworks.ai](mailto:ayaan@fireworks.ai)**  
+
 **Keywords: Firework, fine-tuning, RAG, Small language models(SLM)**
 
 # 
@@ -581,7 +579,7 @@ This integration further fosters streamlined workflows between data and AI proce
 Organizations adopting this strategy can achieve accelerated AI performance, resource savings, and future-proof solutions—driving innovation and competitive advantage across different sectors.
 
 ## Further Reading
-
+* **Atlas Vector Search:** This course will provide you with an introduction to artificial intelligence and vector search. Then, you'll learn how to generate embeddings for your data, store your embeddings in MongoDB Atlas, and index and search your embeddings to perform a semantic search. You'll also learn how to build and use hybrid search that leverages text search capabilities of Atlas Search and semantic search capacilities of Atlas Vector Search. After you become familiar with how vector search works, you'll use it to build a retrieval-augmented generation (RAG) application to build a custom chatbot. Finally, you'll learn key commands for managing your vector search indexes in the Atlas CLI and MongoDB Shell. [https://learn.mongodb.com/learning-paths/atlas-vector-search](https://learn.mongodb.com/learning-paths/atlas-vector-search)  
 * **FireAttention V2:** Improves long-context inference efficiency by up to 12x. [https://fireworks.ai/blog/fireattention-v2-long-context-inference](https://fireworks.ai/blog/fireattention-v2-long-context-inference)  
 * **FireAttention V3:** Enables cost-effective GPU inference with AMD hardware. [https://fireworks.ai/blog/fireattention-v3](https://fireworks.ai/blog/fireattention-v3)  
 * **FireOptimizer:** Allows users to customize latency and quality for production inference workloads. [https://fireworks.ai/blog/fireoptimizer](https://fireworks.ai/blog/fireoptimizer)
